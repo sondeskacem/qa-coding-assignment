@@ -36,7 +36,7 @@ Please send us the work for the following points :
   
   * please use snake case format
 
-* Invite hazem.benkhalfallah@ncq-devstudio.com as **Maintainer**
+*  Invite your reviewers as as **Collaborator**
   * open the following menu menu: **Settings  > Collaborators**
   * click on **Add people** button
   * add cherniMaher 
