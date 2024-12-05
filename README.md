@@ -29,7 +29,7 @@ Please send us the work for the following points :
 
 ## How to send your code?  
 
-* Fork the Gitlab repository into your own **private** personal repository in **in Github**
+* Fork the Github repository into your own **private** personal repository in **in Github**
 
 * Push your code / docs into a new branch with the following name:
   * firstname_lastname
