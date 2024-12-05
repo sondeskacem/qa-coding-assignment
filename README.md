@@ -29,7 +29,7 @@ Please send us the work for the following points :
 
 ## How to send your code?  
 
-* Fork the Gitlab repository into your own **private** personal repository in **Gitlab**
+* Fork the Gitlab repository into your own **private** personal repository in **in Github**
 
 * Push your code / docs into a new branch with the following name:
   * firstname_lastname
@@ -37,11 +37,11 @@ Please send us the work for the following points :
   * please use snake case format
 
 * Invite hazem.benkhalfallah@ncq-devstudio.com as **Maintainer**
-  * open the following menu menu: **Project information > Members**
-  * click on **Invite members** button
-  * add hazem.benkhalfallah@ncq-devstudio.com email and set role as **Maintainer**
+  * open the following menu menu: **Settings  > Collaborators**
+  * click on **Add people** button
+  * add cherniMaher 
 
-* Create a new pull request and set **@hazem-ncq** as Reviewer
+* Create a new pull request and set **cherniMaher** as Reviewer
 
 **Good luck !**
 
