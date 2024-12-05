@@ -25,7 +25,7 @@ Please send us the work for the following points :
 
 	* Comments you will add in your code will help us understand how you built the test.
 
-	* Add inside README file all the needed commands to execute your test on a linux local environment.
+	* Add inside README file all the needed commands to execute your test on a linux / windows  local environment.
 
 ## How to send your code?  
 
