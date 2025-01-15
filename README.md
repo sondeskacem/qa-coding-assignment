@@ -39,9 +39,9 @@ Please send us the work for the following points :
 *  Invite your reviewers as as **Collaborator**
   * open the following menu menu: **Settings  > Collaborators**
   * click on **Add people** button
-  * add cherniMaher, maher.cherni@adad.io
+  * add **Hazem-Ben-Khalfallah**
 
-* Create a new pull request and set **cherniMaher** , **maher.cherni@adad.io** as Reviewer
+* Create a new pull request and set **Hazem-Ben-Khalfallah** as Reviewer
 
 **Good luck !**
 
