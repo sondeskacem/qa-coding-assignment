@@ -1,0 +1,37 @@
+2025-01-31 15:11:59,366 - com.eCommerceDemo.e2eTests.utils.AbstractPage - INFO - Entering the username: standard_user
+2025-01-31 15:11:59,572 - com.eCommerceDemo.e2eTests.utils.AbstractPage - INFO - Entering the password.
+2025-01-31 15:11:59,711 - com.eCommerceDemo.e2eTests.utils.AbstractPage - INFO - Clicking the login button.
+2025-01-31 15:12:13,130 - com.eCommerceDemo.e2eTests.utils.AbstractPage - INFO - Entering the username: standard_user
+2025-01-31 15:12:13,406 - com.eCommerceDemo.e2eTests.utils.AbstractPage - INFO - Entering the password.
+2025-01-31 15:12:13,536 - com.eCommerceDemo.e2eTests.utils.AbstractPage - INFO - Clicking the login button.
+2025-01-31 15:12:21,549 - com.eCommerceDemo.e2eTests.utils.AbstractPage - INFO - Entering the username: invalid_user
+2025-01-31 15:12:21,727 - com.eCommerceDemo.e2eTests.utils.AbstractPage - INFO - Entering the password.
+2025-01-31 15:12:21,907 - com.eCommerceDemo.e2eTests.utils.AbstractPage - INFO - Clicking the login button.
+2025-01-31 15:12:27,021 - com.eCommerceDemo.e2eTests.utils.AbstractPage - INFO - Verifying error message: Epic sadface: Username and password do not match any user in this service
+2025-01-31 15:12:29,859 - com.eCommerceDemo.e2eTests.utils.AbstractPage - INFO - Leaving Username field empty.
+2025-01-31 15:12:31,940 - com.eCommerceDemo.e2eTests.utils.AbstractPage - INFO - Entering the password.
+2025-01-31 15:12:32,098 - com.eCommerceDemo.e2eTests.utils.AbstractPage - INFO - Clicking the login button.
+2025-01-31 15:12:37,215 - com.eCommerceDemo.e2eTests.utils.AbstractPage - INFO - Verifying error message: Epic sadface: Username is required
+2025-01-31 15:12:39,947 - com.eCommerceDemo.e2eTests.utils.AbstractPage - INFO - Entering the username: standard_user
+2025-01-31 15:12:40,191 - com.eCommerceDemo.e2eTests.utils.AbstractPage - INFO - Leaving Password field empty.
+2025-01-31 15:12:42,277 - com.eCommerceDemo.e2eTests.utils.AbstractPage - INFO - Clicking the login button.
+2025-01-31 15:12:47,392 - com.eCommerceDemo.e2eTests.utils.AbstractPage - INFO - Verifying error message: Epic sadface: Password is required
+2025-01-31 15:12:50,294 - com.eCommerceDemo.e2eTests.utils.AbstractPage - INFO - Leaving Username field empty.
+2025-01-31 15:12:52,395 - com.eCommerceDemo.e2eTests.utils.AbstractPage - INFO - Leaving Password field empty.
+2025-01-31 15:12:54,455 - com.eCommerceDemo.e2eTests.utils.AbstractPage - INFO - Clicking the login button.
+2025-01-31 15:12:59,600 - com.eCommerceDemo.e2eTests.utils.AbstractPage - INFO - Verifying error message: Epic sadface: Username is required
+2025-01-31 15:13:03,154 - com.eCommerceDemo.e2eTests.utils.AbstractPage - INFO - Entering the username: standard_user
+2025-01-31 15:13:03,386 - com.eCommerceDemo.e2eTests.utils.AbstractPage - INFO - Entering the password.
+2025-01-31 15:13:03,526 - com.eCommerceDemo.e2eTests.utils.AbstractPage - INFO - Clicking the login button.
+2025-01-31 15:13:13,997 - com.eCommerceDemo.e2eTests.utils.AbstractPage - INFO - Entering the username: standard_user
+2025-01-31 15:13:14,165 - com.eCommerceDemo.e2eTests.utils.AbstractPage - INFO - Entering the password.
+2025-01-31 15:13:14,336 - com.eCommerceDemo.e2eTests.utils.AbstractPage - INFO - Clicking the login button.
+2025-01-31 15:13:22,302 - com.eCommerceDemo.e2eTests.utils.AbstractPage - INFO - Entering the username: standard_user
+2025-01-31 15:13:22,519 - com.eCommerceDemo.e2eTests.utils.AbstractPage - INFO - Entering the password.
+2025-01-31 15:13:22,667 - com.eCommerceDemo.e2eTests.utils.AbstractPage - INFO - Clicking the login button.
+2025-01-31 15:13:30,759 - com.eCommerceDemo.e2eTests.utils.AbstractPage - INFO - Entering the username: standard_user
+2025-01-31 15:13:30,959 - com.eCommerceDemo.e2eTests.utils.AbstractPage - INFO - Entering the password.
+2025-01-31 15:13:31,112 - com.eCommerceDemo.e2eTests.utils.AbstractPage - INFO - Clicking the login button.
+2025-01-31 15:13:44,597 - com.eCommerceDemo.e2eTests.utils.AbstractPage - INFO - Entering the username: standard_user
+2025-01-31 15:13:44,812 - com.eCommerceDemo.e2eTests.utils.AbstractPage - INFO - Entering the password.
+2025-01-31 15:13:44,974 - com.eCommerceDemo.e2eTests.utils.AbstractPage - INFO - Clicking the login button.
